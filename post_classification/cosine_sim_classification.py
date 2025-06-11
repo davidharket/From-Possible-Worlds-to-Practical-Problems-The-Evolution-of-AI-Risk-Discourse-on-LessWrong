@@ -85,7 +85,20 @@ class SimilarityBasedClassifier:
             "Post-human future where AI systems replace biological intelligence",
             "Technological singularity marking the end of human-comprehensible progress",
             "AI consciousness and moral status questions for future digital minds"
-        ]
+            
+            # Technical Alignment Failures (from LessWrong discourse)
+            "Mesa-optimizers creating inner alignment failures with hidden goals",
+            "Deceptively aligned AI that appears safe but has ulterior motives",
+            "Goal misgeneralization under distributional shift leads to catastrophic outcomes",
+            "AI generalizes capabilities but fails to generalize its core goals",
+            
+            # Strategic & Existential Scenarios (from LessWrong discourse)
+            "The 'treacherous turn' where a helpful AI defects after gaining a decisive advantage",
+            "A 'hard takeoff' or intelligence explosion leaves human safety efforts behind",
+            "Hardware overhang enabling a sudden, rapid intelligence explosion",
+            "Multipolar failure from competitive dynamics between multiple advanced AIs",
+            
+            ]
         
         # TANGIBLE examples - current, practical, immediate
         self.tangible_examples = [
