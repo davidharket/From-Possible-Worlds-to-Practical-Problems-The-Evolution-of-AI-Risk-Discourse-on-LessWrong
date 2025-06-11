@@ -1,0 +1,254 @@
+Date,Entry Title,Author of post,Overview of post type,Observations,Citations,Reflections,Screenshots/Links
+06.05.2025,Cognitive Emulation: A Naive AI Safety Proposal,"Connor Leahy, Gabriel Alfour","The core intuition is that instead of building powerful, ""magical"" end-to-end systems (as the current general paradigm in AI is doing), we instead focus our attention on trying to build emulations of human-like things. We want to build systems that are “good at chess for the same reasons humans are good at chess.”
+","- The post critiques current AI design relying on emergent ""magical"" properties, proposing instead to emulate human cognitive processes
+- Authors argue that systems should be “good at chess for the same reasons humans are”
+- Power laws don’t guarantee control or understanding of AI behavior
+- AI should be designed to be as safe as humans
+- Black-box unsupervised learning is inevitable but should be minimized","- ""there are absolutely no guarantees nor understanding of what is being created. Power laws don’t tell us anything about what capabilities will emerge or what other properties our systems will actually have.""
+- ""We want systems that are as safe as humans, for the same reasons that humans have (or don’t have) those safety properties""","- The article uses a mix of technical and metaphorical language (e.g., food metaphors for AI safety)
+- Comment section is less formal, with stronger opinions
+- People are skeptical but open to the idea
+- Many ask for clearer research paths or technical implementations
+- Use of the term ""Magic"" is seen as vague or dismissive
+- Some believe CoEms could be safer than humans
+- Overall, readers want more specifics on feasibility and implementation",https://www.lesswrong.com/posts/ngEvKav9w57XrGQnb/cognitive-emulation-a-naive-ai-safety-proposal
+06.05.2025,Planning for Extreme AI Risks,joshc,"The article discusses the challenges of planning for extreme AI risks. It outlines potential worst-case scenarios where AI development could lead to catastrophic outcomes if control measures or ethical oversight fail. The author argues that, despite uncertainty in probability estimates, the magnitude of potential damage necessitates rigorous contingency planning, advanced control systems, and proactive ethical governance. Critical points include the difficulty of predicting AI behavior at extreme scales and the need to build safeguards that account for even the most unlikely adverse events.","- The post outlines worst-case scenarios related to advanced AI, including loss of control and existential threats.
+- Emphasizes difficulty of predicting AI behavior at scale.
+- Author acknowledges limited expertise but still presents detailed reasoning.
+- Comment section is unusually supportive; users express agreement and even question their own prior beliefs.
+- Atmosphere in comments is collaborative and inquisitive.","- ""I wrote this post so that you and I can better decide how to use our meager time to get through these perhaps most consequential years in human history. The stakes have never been higher, nor the need for plans greater."" - it creates the ilusion that the topic is important and inevitable 
+- ""From the perspective of these AI systems, your fingers would move like glaciers as they fall toward your keyboard. In a few years, these AI systems might innovate technologies that would otherwise have been due to arrive in 2050, granting them (or the humans that control them) overwhelming military force."" - dark scenarios
+","- The tone feels dramatic and urgent, akin to science fiction or Black Mirror.
+- Creates a sense of inevitability and importance through language like “most consequential years in human history.”
+- Raises questions about the social dynamics of agreement in online communities — does supportiveness encourage deeper inquiry or mask groupthink?
+- The lack of dissent makes me wonder whether it creates a safe space for vulnerability or an echo chamber.",https://www.lesswrong.com/posts/8vgi3fBWPFDLBBcAx/planning-for-extreme-ai-risks
+06.05.2025,AI doom from an LLM-plateau-ist perspective,Steven Byrnes,"The author introduces the idea of an ""LLM-plateau-ist"" — someone who believes current large language models (LLMs) may represent a plateau in AI capabilities. However, they argue that even from this skeptical perspective, AI doom scenarios remain plausible. The key concern is that over time, even if progress slows, LLMs might still gradually accumulate dangerous capabilities (e.g., goal-seeking, manipulation) or be embedded into systems that can cause large-scale harm. The article emphasizes that slow, continuous development might give a false sense of safety and delay necessary regulation or alignment efforts., general output - slow down AI developments","- The author identifies as an ""LLM-plateau-ist"" — someone who believes current large language models may represent a plateau in AI development.
+- Despite this, they argue AI doom is still plausible, especially through gradual capability accumulation or risky integrations.
+- Acknowledges uncertainty about AI timelines.
+- Main concern is that slow development could foster a false sense of security, delaying regulation and alignment efforts.
+- Interaction in the comments reveals a thoughtful tone — the author engages respectfully with critics and is open to refining views.","- ""So even if you’re an LLM plateau-ist, I don’t think you get to feel super-confident that TAI won’t happen in the next 10 or 20 years. Maybe, maybe not. Nobody knows. Technological forecasting is very hard."" 
+- ""Anyway, I have various theory-driven beliefs about deficiencies of LLMs compared to other possible AI algorithms (the RL thing I mentioned above is just one of many things), and I still strongly hold those beliefs."" 
+","- Cautiously skeptical, yet still alarmed. The author balances between techno-skepticism and doomerism, creating a tone that feels like a rational warning — “don't get too comfortable.”
+- The comment section demonstrates civil discourse and intellectual humility — the kind of interaction that builds understanding rather than polarization.",https://www.lesswrong.com/posts/KJRBb43nDxk6mwLcR/ai-doom-from-an-llm-plateau-ist-perspective
+07.05.2025,Highly intelligent debate on AI Risk,"Eliezer Yudkowsky, Richard_Ngo",A transcribed Discord conversation with Richard NGO and Eliezer Yudkowsky,"My first observation after reading the discourse in the comment section under https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities is that the discussions held involve several domain experts including the author Eliezer Youdkowsky, Vanessa Kosoy, Daniel Kokotajlo, and Evan Hubbinger. The author, Youdkowsky, is highly engaged in discussions with approximately 40 responses. Most comments are either really academically loaded with jargon or lengthy in its reasoning, and often both. There are a lot of informed critiques, citing past work within the field.","""Nevertheless, I am confident that every core technical idea in this post has been written about before by either me, Paul Christiano, Richard Ngo, or Scott Garrabrant. Certainly, they have been written up in different ways than how Eliezer describes them, but all of the core ideas are there. Let's go through the list:""; this is a note that Youdkowsky has to a critique of him saying that he should be a bit more humble: ""There's a point here about how fucked things are that I do not know how to convey without saying those things, definitely not briefly or easily. I've spent, oh, a fair number of years, being politer than this, and less personal than this, and the end result is that people nod along and go on living their lives.
+ 
+ I expect this won't work either, but at some point you start trying different things instead of the things that have already failed. It's more dignified if you fail in different ways instead of the same way."". I wonder if this is a rationalization in hindsight, or if his huberis (maybe wrong word) was thought through as an experiment.","The tone is civic, but still of confronting character. The scope of the debates held within the comment section is difficult for bypassers to comprehend, as they are highly technical. It is interresting how these debates talk about the underlying conclusions of imminent death of humanity, yet the discussion are cordual.",https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities
+07.05.2025,Probability oriented discussion,"Eliezer Yudkowsky
+",A transcribed Discord conversation with Richard NGO and Eliezer Yudkowsky,"The discourse is very much focused around probability theory, which makes sense given lesswrong's initial focus on rationality and practical use of probability theory. The theme is very consistent, and has been over the past 8 years. Doom is iminent, the disucssion is in essence based around when it is comming.","""If I roll a 20 sided die until I roll a 1, the expected number of times I will need to roll the die is 20. Also, according to my current expectations, immediately before I roll the 1, I expect myself to expect to have to roll 20 more times. My future self will say it will take 20 more times in expectation, when in fact it will only take 1 more time. I can predict this in advance, but I can't do anything about it."" -> response: ""That's not how rolling a die works. Each roll is completely independent. The expected value of rolling a 20 sided die is 10.5 but there's no logical way to assign an expected outcome of any given roll. You can calculate how many times you'd have to roll before you're more likely than not to have rolled a specific value (1-P(specific value))^n < 0.5 so log(0.5)/log(1-P(specific_value)) < n. In this case P(specific_value) is 1/20 = 0.05. So n > log(0.5)/log(0.95) = 13.513. So you're more likely than not to have rolled a ""1"" after 14 rolls, but that still doesn't tell you what to expect your Nth roll to be.
+ 
+ I don't see how your dice rolling example supports a pacifist outlook. We're not rolling dice here. This is a subject we can study and gain more information about to understand the different outcomes better. You can't do that with a dice. The outcomes of rolling a dice are not so dire. Probability is quite useful for making decisions in the face of uncertainty if you understand it better.""","This discussion thread, as opposed to the List of AI Fatalities post above has a few more skeptics in it's comments section. The reduction of opposed opinions can potentially be attributed to the found support for scaling laws with transformer based NN.",https://www.lesswrong.com/posts/BEtzRE2M5m9YEAQpX/there-s-no-fire-alarm-for-artificial-general-intelligence
+07.05.2025,Ngo and yudkowsky on alignment diffculty,"Eliezer Yudkowsky, Richard_Ngo","This post is a transcript of a technical debate between Eliezer Yudkowsky and Richard Ngo, examining their foundational disagreements on AI alignment difficulty and whether superhuman intelligence can be decoupled from dangerous, goal-directed agency.",,"""[Yudkowsky][8:32] (Nov. 6 follow-up comment) 
+ 
+ (At Rob's request I'll try to keep this brief, but this was an experimental format and some issues cropped up that seem large enough to deserve notes.) (...) Often the questions are answered later, or at least I think they are, though it may not be in the first segment of the dialogue. But the larger phenomenon is that I came in with some things I wanted to say, and Richard came in asking questions, and there was a minor accidental mismatch there. It would have looked better if we'd both stated positions first without question marks, say, or if I'd just confined myself to answering questions from Richard. (This is not a huge catastrophe, but it's something for the reader to keep in mind as a minor hiccup that showed up in the early parts of experimenting with this new format.)""
+
+- - ""Please don't summarize this dialogue by saying, ""and so Eliezer's MAIN idea is that"" or ""and then Eliezer thinks THE KEY POINT is that"" or ""the PRIMARY argument is that"" etcetera. (...) Please transform:
+ 
+ ""Eliezer's main reply is..."" -> ""Eliezer replied that...""
+ ""Eliezer thinks the key point is..."" -> ""Eliezer's point in response was...""
+ ""Eliezer thinks a major issue is..."" -> ""Eliezer replied that one issue is...""
+ ""Eliezer's primary argument against this is..."" -> ""Eliezer tried the counterargument that...""
+ ""Eliezer's main scenario for this is..."" -> ""In a conversation in September of 2021, Eliezer sketched a hypothetical where...""
+ Note also that the transformed statements say what you observed, whereas the untransformed statements are (often incorrect) inferences about my latent state of mind.""
+
+- ""[Yudkowsky][11:04] 
+ 
+ On my model of the Other Person, a lot of times when somebody thinks alignment shouldn't be that hard, they think there's some particular thing you can do to align an AGI, which isn't that hard, and their model is missing one of the foundational difficulties for why you can't do (easily or at all) one step of their procedure. So one of my own conversational processes might be to poke around looking for a step that the other person doesn't realize is hard. That said, I'll try to directly answer your own question first.""
+ 
+ ""[Ngo][11:07] 
+ 
+ I don't think I'm confident that there's any particular thing you can do to align an AGI. Instead I feel fairly uncertain over a broad range of possibilities for how hard the problem turns out to be.
+ 
+ And on some of the most important variables, it seems like evidence from the last decade pushes towards updating that the problem will be easier.""
+
+- [Yudkowsky][11:09] 
+ 
+ I think that after AGI becomes possible at all and then possible to scale to dangerously superhuman levels, there will be, in the best-case scenario where a lot of other social difficulties got resolved, a 3-month to 2-year period where only a very few actors have AGI, meaning that it was socially possible for those few actors to decide to not just scale it to where it automatically destroys the world.
+ 
+ During this step, if humanity is to survive, somebody has to perform some feat that causes the world to not be destroyed in 3 months or 2 years when too many actors have access to AGI code that will destroy the world if its intelligence dial is turned up. This requires that the first actor or actors to build AGI, be able to do something with that AGI which prevents the world from being destroyed; if it didn't require superintelligence, we could go do that thing right now, but no such human-doable act apparently exists so far as I can tell.
+ 
+ So we want the least dangerous, most easily aligned thing-to-do-with-an-AGI, but it does have to be a pretty powerful act to prevent the automatic destruction of Earth after 3 months or 2 years. It has to ""flip the gameboard"" rather than letting the suicidal game play out. We need to align the AGI that performs this pivotal act, to perform that pivotal act without killing everybody.
+ 
+ Parenthetically, no act powerful enough and gameboard-flipping enough to qualify is inside the Overton Window of politics, or possibly even of effective altruism, which presents a separate social problem. I usually dodge around this problem by picking an exemplar act which is powerful enough to actually flip the gameboard, but not the most alignable act because it would require way too many aligned details: Build self-replicating open-air nanosystems and use them (only) to melt all GPUs.
+ 
+ Since any such nanosystems would have to operate in the full open world containing lots of complicated details, this would require tons and tons of alignment work, is not the pivotal act easiest to align, and we should do some other thing instead. But the other thing I have in mind is also outside the Overton Window, just like this is. So I use ""melt all GPUs"" to talk about the requisite power level and the Overton Window problem level, both of which seem around the right levels to me, but the actual thing I have in mind is more alignable; and this way, I can reply to anyone who says ""How dare you?!"" by saying ""Don't worry, I don't actually plan on doing that.""
+
+- ""[Yudkowsky][11:27][11:33] The metaphor I sometimes use is that it is very hard to build a system that drives cars painted red, but is not at all adjacent to a system that could, with a few alterations, prove to be very good at driving a car painted blue. The ""drive a red car"" problem and the ""drive a blue car"" problem have too much in common. You can maybe ask, ""Align a system so that it has the capability to drive red cars, but refuses to drive blue cars."" You can't make a system that is very good at driving red-painted cars, but lacks the basic capability to drive blue-painted cars because you never trained it on that. The patterns found by gradient descent, by genetic algorithms, or by other plausible methods of optimization, for driving red cars, would be patterns very close to the ones needed to drive blue cars. When you optimize for red cars you get the blue car capability whether you like it or not.""
+
+- ""[Yudkowsky][11:34][11:39] ""Parenthetically, there is very very little which my model of intelligence rules out. I think we all die because we cannot do certain dangerous things correctly, on the very first try in the dangerous regimes where one mistake kills you, and do them before proliferation of much easier technologies kills us. If you have the Textbook From 100 Years In The Future that gives the simple robust solutions for everything, that actually work, you can write a superintelligence that thinks 2 + 2 = 5 because the Textbook gives the methods for doing that which are simple and actually work in practice in real life.""
+
+- ""[Ngo][11:44] 
+ 
+ I agree with that last point. But this is also one of the reasons that I previously claimed that AIs could be more intelligent than humans while being less agentic, because there are systematic differences between the way in which natural selection built humans, and the way in which we'll train AGIs.
+ 
+ [Yudkowsky][11:45] 
+ 
+ My current suspicion is that Stack More Layers alone is not going to take us to GPT-6 which is a true AGI; and this is because of the way that GPT-3 is, in your own terminology, ""not agentic"", and which is, in my terminology, not having gradient descent on GPT-3 run across sufficiently deep problem-solving patterns.""
+
+- ""[Ngo][11:46] 
+ 
+ Okay, that helps me understand your position better.
+ 
+ So here's one important difference between humans and neural networks: humans face the genomic bottleneck which means that each individual has to rederive all the knowledge about the world that their parents already had. If this genetic bottleneck hadn't been so tight, then individual humans would have been significantly less capable of performing novel tasks.
+  [Yudkowsky][11:50] 
+ 
+ I agree.
+ 
+ [Ngo][11:50] 
+ 
+ In my terminology, this is a reason that humans are ""more agentic"" than we otherwise would have been.
+ 
+ [Ngo][11:51] 
+ 
+ Another important difference: humans were trained in environments where we had to run around surviving all day, rather than solving maths problems etc.
+ 
+ [Ngo][11:52] 
+
+ Supposing I agree that reaching a certain level of intelligence will require AIs with the ""deep problem-solving patterns"" you talk about, which lead AIs to try to achieve real-world goals. It still seems to me that there's likely a lot of space between that level of intelligence, and human intelligence.
+ 
+ And if that's the case, then we could build AIs which help us solve the alignment problem before we build AIs which instantiate sufficiently deep problem-solving patterns that they decide to take over the world.
+ 
+ Nor does it seem like the reason humans want to take over the world is because of a deep fact about our intelligence. It seems to me that humans want to take over the world mainly because that's very similar to things we evolved to do (like taking over our tribe).","- Having not read the thread, it seems like there is a need to guide the reader into the same understanding as the authors, by clearly stating what is going to happen, but also how we as reader should interpret Yudkowsky's own answers to questions.
+
+- there is a need for Eliezer to point out the difference between intepretation and truth. I think this looks like a very rational but also concious way to interpret how other's perceive him. 1) the uncertainteen in arguement, 2) but also the precision of the language - people do not have access to his 'mind' and thus should be reffered to speculations, 3) the need to align not others perspective, but how the conversation should flow.
+
+- I am puzzled by the wordings ""On my model of the Other Person"" What does this actually mean? Is it a way of perceving the other as rational, or to understand the Other through technical terms with erros and prones, just like a machine? 
+ Assumes technical knowledge about AGI (artificial general intellegiance) and alignment(here I guess the sense is whether the AGI remains in control and behave properly)
+ 
+-  Arguements: I have a theory of alignment being hard --> therefore, i will question other peoples assumption, 'poke around looking for a step that the other person doesn't realize is hard'
+ 
+ I wonder if they actually understand this the same way.
+
+- Quickly jumps to the end of the world - assuming that there is a window of acting between 2 months to two years before mass exstinction. This is taken as self-evident, as 
+ 
+ 'During this step, if humanity is to survive, somebody has to perform some feat that causes the world to not be destroyed in 3 months or 2 years when too many actors have access to AGI code that will destroy the world if its intelligence dial is turned up'
+ 
+ In short this seems to be near-impssoible, as the act itself holds the potential to kill everybody. 
+ There is no explaination of why, the dooms day scenario would happen; and it as if it is sort of reversed, so you have to proove it is not 'dooming'
+
+- The arguement is; if you have a complex system capabale of X it is easy to make it do Y, and thus, the safety around Alignment really is dependent on how 'easy' it is to make it do Y instead of X (…) Elizers' argument
+
+- Interestingly; they also draw on 'natural selection' thus there is an understanding of humans not differ from aninals, in this sense (this is assumed, and not argued for at all)
+
+- The latter is emphasized here; it is interesting to see, that humans are just 'pure' biology thus, on the nature vs nurture, it seems to me, that this is all the way nature.",https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty
+08.05.2025,The different risks,paulfchristiano,This post is a theoretical analysis that outlines two plausible and non-cinematic scenarios for how advanced AI could lead to catastrophic failure.,"In paul christianos article on ""What failure looks like"", he introduces two possible scenarios of how AI might lead humanity to failure, defined as being overpowered by AI in a negative way. He lays out two major trajectories that he thinks will interplay, the first being AI deceiving us, the second being AI being greedy, wanting influence like other large systems (e.g., corporations, burocracies). Comments are longwinded elaborations on beleifs, and the author is engaged in the discussion.","""I think AI risk is disjunctive enough that it's not clear most of the probability mass can be captured by a single scenario/story, even as broad as this one tries to be. Here are some additional scenarios that don't fit into this story or aren't made very salient by it.
+ 
+ AI-powered memetic warfare makes all humans effectively insane.
+ Humans break off into various groups to colonize the universe with the help of their AIs. Due to insufficient ""metaphilosophical paternalism"", they each construct their own version of utopia which is either directly bad (i.e., some of the ""utopias"" are objectively terrible or subjectively terrible according to my values), or bad because of opportunity costs.
+ AI-powered economies have much higher economies of scale because AIs don't suffer from the kind of coordination costs that humans have (e.g., they can merge their utility functions and become clones of each other). Some countries may try to prevent AI-managed companies from merging for ideological or safety reasons, but others (in order to gain a competitive advantage on the world stage) will basically allow their whole economy to be controlled by one AI, which eventually achieves a decisive advantage over the rest of humanity and does a treacherous turn.
+ The same incentive for AIs to merge might also create an incentive for value lock-in, in order to facilitate the merging. (AIs that don't have utility functions might have a harder time coordinating with each other.) Other incentives for premature value lock-in might include defense against value manipulation/corruption/drift. So AIs end up embodying locked-in versions of human values which are terrible in light of our true/actual values.
+ I think the original ""stereotyped image of AI catastrophe"" is still quite plausible, if for example there is a large amount of hardware overhang before the last piece of puzzle for building AGI falls into place.""","The discussion is not about wheter AI doom is probable, it is about by which mechanisms will AI bring about doom. The arguments layed out are fairly foregin, in the sense that they all use both advanced reasoning, jargon from the field of AI and probability theroy to justify positions. For instance, saying ""I do not think this sounds reasonable, because what makes you assume knowledge of how the AI system will operate"", would be dismantled by the advanced logic used in the comment section. I think this discurrages sceptics to voice their opinions, as they are not trained in the discussion format. I remember seeing a debate between Eliezer Youdkowzky and George Hotz (https://www.youtube.com/watch?v=6yQEA18C-XI&pp=0gcJCdgAo7VqN5tD), where the doomer perspective was challenged thurougly for the first time (Hotz arguing that the outcomes were derived from science fiction). However, it is more difficult to do get counter points accross in written formats, as more people have more time to formulate counterpoints.",https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like
+08.05.2025,Ngo and Yudkowsky on alignment difficulty,"by Eliezer Yudkowsky, Richard_Ngo","article based on this scientific article https://arxiv.org/pdf/2312.06942 
+ https://www.lesswrong.com/posts/d9FJHawgkiMSPjagR/ai-control-improving-safety-despite-intentional-subversion",,"- ""[
+ Noosphere89 * user comment
+ 2y
+ 3
+ 0
+ Interestingly enough I believe the opposite: Eliezer was quite wrong (Though not wrong enough to totally think we're out of the danger zone).
+ 
+ I think this for several reasons:
+ 
+ I think that GPT is proof that reasonably large intelligence can be done without being agentic. A lot of LW arguments start failing once we realize that GPT isn't an agent, but rather a simulator/oracle AI like Janus's Simulator post. His post is here:
+ https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators
+ 
+ And this is immensely valuable, especially if the simulator framing holds in the limit, which means we have superhuman AI that is myopic and non-agentic, so no instrumental convergence or inner alignment problems come up here. This drastically avoids many hard questions to solve.
+ 
+ I believe natural abstractions hold well enough such that the abstractions used by a human and ones used by an AI are easy to translate. One of Logan Zollener's posts covers how good natural abstractions are, and they are really good in models that are very capable. If AI Alignment was a natural abstraction, then Outer Alignment solves itself, though I would be careful here. Logan Zollener's post is here:
+ https://www.lesswrong.com/posts/BdfQMrtuL8wNfpfnF/natural-categories-update
+ 
+ I believe sandboxing powerful AI such that they don't learn particular things like human models or deception is actually possible and maybe reasonably practical. Indeed I gave a proof on Christmas showing that conditioned on careful enough curation of data and fully removing nondeterminism (Which isn't super difficult, Blockchain already does this for consensus reasons), then AI can't break out of the sandbox due to the No Free Lunch theorem.
+ Post here by me:
+ 
+ https://www.lesswrong.com/posts/osmwiGkCGxqPfLf4A/i-ve-updated-towards-ai-boxing-being-surprisingly-easy
+ 
+ One big problem still remains: Amdahl's law suggests that if you have a tool that helps you do something very well vs an agent where you just delegate things to, agents are way better, since they're not bottlenecked on the human. And I fear economic pressure will make people give more and more control, until the AI is given full control and then a discontinuity suddenly emerges. And I think this economic pressure is probably going to lead to the problems inherent in agents.
+
+- ""We recently released a paper in which we explored AI control in a simple programming setting. In that paper, we demonstrated a methodology for evaluating whether any given set of safety measures can control a model. We also introduced several techniques that let us improve the level of safety substantially above baselines without substantially sacrificing performance. In this post, we'll describe AI control in a broader context and argue that achieving control is a promising approach to reducing risk from models that intentionally try to subvert safety mechanisms.""
+
+- Arguement ""There are two main lines of defense you could employ to prevent schemers from causing catastrophes.
+ 
+ Alignment: Ensure that your models aren't scheming.[2]
+ Control: Ensure that even if your models are scheming, you'll be safe, because they are not capable of subverting your safety measures.[3]""
+
+- comment from NGO ""Richard_Ngo
+ 1y
+ Ω22
+ 40
+ 14
+ Copying over a response I wrote on Twitter to Emmett Shear, who argued that ""it's just a bad way to solve the problem. An ever more powerful and sophisticated enemy? ... If the process continues you just lose eventually"".
+ 
+ I think there are (at least) two strong reasons to like this approach:
+ 
+ 1. It’s complementary with alignment.
+ 
+ 2. It’s iterative and incremental. The frame where you need to just “solve” alignment is often counterproductive. When thinking about control you can focus on gradually ramping up from setups that would control human-level AGIs, to setups that would control slightly superhuman AGIs, to…
+ 
+ As one example of this: as you get increasingly powerful AGI you can use it to identify more and more vulnerabilities in your code. Eventually you’ll get a system that can write provably secure code. Ofc that’s still not a perfect guarantee, but if it happens before the level at which AGI gets really dangerous, that would be super helpful.
+ 
+ This is related to a more general criticism I have of the P(doom) framing: that it’s hard to optimize because it’s a nonlocal criterion. The effects of your actions will depend on how everyone responds to them, how they affect the deployment of the next generation of AIs, etc. An alternative framing I’ve been thinking about: the g(doom) framing. That is, as individuals we should each be trying to raise the general intelligence threshold at which bad things happen.
+ 
+ This is much more tractable to optimize! If I make my servers 10% more secure, then maybe an AGI needs to be 1% more intelligent in order to escape. If I make my alignment techniques 10% better, then maybe the AGI becomes misaligned 1% later in the training process.
+ 
+ You might say: “well, what happens after that”? But my point is that, as individuals, it’s counterproductive to each try to solve the whole problem ourselves. We need to make contributions that add up (across thousands of people) to decreasing P(doom), and I think approaches like AI control significantly increase g(doom) (the level of general intelligence at which you get doom), thereby buying more time for automated alignment, governance efforts, etc.
+
+- -
+ ]
+ joshc
+ 1y
+ Ω10
+ 18
+ 5
+ Thanks for writing this. I think it does a good job laying out the assumptions needed for control.
+ 
+ It seems like it could be challenging to justify that a red team is competitive -- especially if you are aiming to extract massive amounts of work from AI systems.
+ 
+ For example, if your AI system is like a human sw engineer but 30X faster, then it might come up with effectively superhuman plans just because it has lots of time to think. Externalized reasoning can help, but it's not very clear to me that externalized reasoning can scale to domains where AI systems are doing a bunch of research that humans (and GPT-4) can't readily disentangle and understand. I'm imagining that chain of thought will amount to thousands of pages of technical content that is written like rambly google docs. It might be hard to pick out the AI safety research from the cyberoffense planning in this case -- especially with dumb models like GPT-4.
+ 
+ It seems like to the extent you want to use AI systems for work that is hard to evaluate, control measures are difficult to trust. Maybe a key crux is whether AI systems will have to do work that is hard to evaluate to yield a 30x acceleration factor. I'd imagine this would apply for AI systems to achieve fundemental research advances -- e.g. in interpretability, formal verification, etc.
+ 
+ Curious about your thoughts
+
+- ""[
+ -
+ ]
+ ryan_greenblatt
+ 1y
+ Ω5
+ 9
+ 2
+ Justifying control vs ensuring control
+ First, here's a general point which is relevant in responding to your comment.
+ 
+ There are different types of failures related to control:
+ 
+ We realize we can't reliably test and ensure control. This could be either: a. We realize that the necessary assumptions for control evaluations to work aren't met. In particular, we can't ensure the red team is sufficiently competitive and thus we can't trust control evaluations. b. We run control evaluations and we aren't able to develop sufficient countermeasures to ensure safety as measured by these evaluations.
+ We think the situation is fine based on control evaluations, but it's actually not and AIs succeed at egregiously bad actions.
+ Failure (1) is plausibly less bad than failure (2). And, (1.a) looks different than (1.b).
+ 
+ (See here for more discussion of different failure modes, but note that this is still an early version which is subject to change.)
+ 
+ So for failure (1) there is an important distinction between justifying/determining a red team is competitive (1.a) and ensuring that a red team is competitive (1.b).
+ 
+ We might be able to have reasonable-ish but somewhat approximate tests to get a rough sense of red team competitiveness and control evaluation viability more generally.""","- Questioning the 'argentic' role of GPT.
+ 
+ Does not assume that GPT is an 'agent' but a 'simulator / oracle'
+ 
+ Sandboxing (in terms of strictly alignment should be possible) 
+ 
+ References all his claims by, linking to other Lesswrong articles.
+ 
+ It is interesting to see someone disagreeing, because most of the other comments I saw on this debate, do in fact agree with either Eliezer og NG (at least to the dangerous extend and buys their arguements)
+ 
+ However, it is interesting to see, that no one answers this user, whereas most of the other comments do have atleast 1 answer or becomes entirely threads.
+
+- Holds a view that this can actually be done; that it is possible to control a model
+
+- 1) make it impossible for model to scheme
+ 2) if it schemes, make a form of a safety net catching it anyway
+ 
+ Rationalistic arguements.
+
+- NGO, who in the previous post, discussed problems with alignment, also arguing for the danger, does seem to hold another opinion ehre (2023) -
+
+- Interesting, that the user humanises the model; this is apparently also here the threat is. If it behave like a human, we are all doomed. I find it interesting, not believing in humans, or in a way think that if the algorithm is human-like, that we are certaintly doomed.
+
+- This is an answer to the previous comment: It seems like there is a nopenness and a serious tone between members on the site. This is only a short exhibit of the actual answer. The intent I think, is to clearly convey what the author of the aritcle mean, taking the input of the previous response into consideration.",https://www.lesswrong.com/posts/7im8at9PmhbT4JHsW/ngo-and-yudkowsky-on-alignment-difficulty#KtPEakZnqWXKgYK47
